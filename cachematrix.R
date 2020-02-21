@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do 行列xのinverseをキャッシュに格納
 
 ## Write a short comment describing this function
 
@@ -19,7 +19,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+## Write a short comment describing this function　行列xのinverseをキャッシュから取り出し
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
